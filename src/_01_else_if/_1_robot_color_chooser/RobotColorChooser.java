@@ -69,7 +69,7 @@ public class RobotColorChooser {
 				rob.setPenColor(Color.black);
 			}
 			
-			for(int i=0; i<5; i++) {
+			for(int i=0; i<4; i++) {
 				rob.move(50);
 				rob.turn(90);
 			}
